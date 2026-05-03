@@ -21,3 +21,7 @@ An AI-based web application that compares a resume with a job description and ca
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Screenshot
+
+![App Screenshot](assets/screenshot.png)
