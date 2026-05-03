@@ -2,6 +2,8 @@
 
 An AI-based web application that compares a resume with a job description and calculates how well they match using Natural Language Processing (NLP).
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=streamlit)](https://resume-matcher-7zccmht894wypotg6lgy79.streamlit.app/)
+
 ## 🚀 Features
 - 📄 Upload resume (PDF or TXT)
 - 🧠 Match score using TF-IDF & cosine similarity
