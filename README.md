@@ -1,16 +1,23 @@
 # AI Resume Matcher 🤖
 
-This project compares resumes with job descriptions using NLP and cosine similarity.
+An AI-based web application that compares a resume with a job description and calculates how well they match using Natural Language Processing (NLP).
 
-## Features
-- Match percentage
-- Missing keywords detection
-- Simple UI using Streamlit
+## 🚀 Features
+- 📄 Upload resume (PDF or TXT)
+- 🧠 Match score using TF-IDF & cosine similarity
+- 📊 Visual progress bar for match percentage
+- 🎯 Extract missing keywords from job description
+- 🌐 Simple UI built with Streamlit
 
-## Tech Stack
+## 🛠️ Tech Stack
 - Python
 - Scikit-learn
 - Streamlit
+- PyPDF2
+- NLP (TF-IDF, Cosine Similarity)
 
-## Run Project
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
 streamlit run app.py
