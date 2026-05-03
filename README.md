@@ -16,12 +16,12 @@ An AI-based web application that compares a resume with a job description and ca
 - PyPDF2
 - NLP (TF-IDF, Cosine Similarity)
 
+## 📸 Screenshot
+
+![App Screenshot](assets/screenshot.png)
+
 ## ▶️ How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-## 📸 Screenshot
-
-![App Screenshot](assets/screenshot.png)
